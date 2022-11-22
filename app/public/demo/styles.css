@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer{
+    background-color: rgb(249, 232, 238);
+    font-style: italic;
+    margin: 5%;
+ 
+}
